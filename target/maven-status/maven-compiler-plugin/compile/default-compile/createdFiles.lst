@@ -1,0 +1,7 @@
+client\PeopleApiClient.class
+model\responses\DefaultPeopleResponse$DefaultPeopleResponseBuilder.class
+code\academy\utils\ConversionUtils.class
+model\PersonData.class
+model\responses\DefaultPeopleResponse.class
+model\responses\GetAllPeopleResponse.class
+model\PersonData$PersonDataBuilder.class
